@@ -20,9 +20,6 @@ Plataforma web desarrollada en React + PHP + MySQL que permite gestionar reserva
 ✅ **Aula Virtual - Eurohogar Impulsa**  
 Portal de capacitación interna basado en Moodle, completamente personalizado para ofrecer cursos, evaluaciones y seguimiento al crecimiento de nuestros colaboradores.
 
-✅ **Automatización de procesos**  
-Flujos automáticos con Google Workspace y Make para aprobación de cotizaciones, control documental y seguimiento gerencial.
-
 ✅ **Transformación digital**  
 Lideramos el plan maestro de digitalización de Eurohogar, integrando herramientas modernas que permiten mayor control, trazabilidad y eficiencia.
 
