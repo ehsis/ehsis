@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenido al perfil TI de Eurohogar Inmobiliaria</h1>
 
 <p align="center">
-  <img src="https://www.eurohogar.co.cr/wp-content/uploads/2020/11/logoEuroHogar.png" width="200" alt="Eurohogar Logo">
+  <img src="https://prevengamosquemaduras.com/wp-content/uploads/2023/10/Logo-Eurohogar.png" width="200" alt="Eurohogar Logo">
 </p>
 
 ---
