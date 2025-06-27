@@ -1,7 +1,7 @@
 <h1 align="center">👋 Bienvenido al perfil TI de Eurohogar Inmobiliaria</h1>
 
 <p align="center">
-  <img src="https://eurohogar.co.cr/hubfs/Branding/Logo%20Eurohogar%20sin%20Margen%20-%20Blanco.png">
+  <img src="https://eurohogar.co.cr/hubfs/Branding/Logo%20Eurohogar%20sin%20Margen%20-%20Blanco.png" width="200" >
 </p>
 
 ---
